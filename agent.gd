@@ -1,3 +1,5 @@
+# Base class for the three sprites
+
 class_name Agent
 extends Node2D
 
