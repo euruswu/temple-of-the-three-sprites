@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://rtofplyb1d0r"]
+
+[ext_resource type="Script" uid="uid://8a08mu54w88k" path="res://architect.gd" id="1_ufalm"]
+
+[node name="Architect" type="Node2D" unique_id=1429242773]
+script = ExtResource("1_ufalm")

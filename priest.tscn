@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c6umqcpb2udf7"]
+
+[ext_resource type="Script" uid="uid://jkdo80nbrd8q" path="res://priest.gd" id="1_xi10r"]
+
+[node name="Priest" type="Node2D" unique_id=1225295979]
+script = ExtResource("1_xi10r")

@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dfypab1wg8uq"]
+
+[ext_resource type="Script" uid="uid://c70781umr640v" path="res://knight.gd" id="1_owtlo"]
+
+[node name="Knight" type="Node2D" unique_id=282444181]
+script = ExtResource("1_owtlo")
